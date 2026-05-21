@@ -4,6 +4,7 @@ I have no formal training on how to draw electrical schematics, and I do not hav
 - [How to Read a Schematic](https://learn.sparkfun.com/tutorials/how-to-read-a-schematic/all)
 - [Stack Exchange Electrical Engineering ](https://electronics.stackexchange.com/questions/28251/rules-and-guidelines-for-drawing-good-schematics)
 - [Medium "How to draw schematics: the good, the bad, and the ugly."](https://medium.com/@tiago.gala/the-art-of-drawing-good-schematics-be3e7e59eb40)
+- [Different Types of Ground in KiCAD](https://www.nexpcb.com/blog/different-types-of-ground-in-kicad)
 
 ## Tools
 ### Schematics
